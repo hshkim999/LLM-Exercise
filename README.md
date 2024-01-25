@@ -1,3 +1,5 @@
+![Cyber Brain](https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/content-885x432/public/news/research/news/cyber-brain-7633488-1920-crop.jpg?itok=Nxydw-yh)
+
 We are undertaking a comprehensive analysis of how an advanced language model, specifically OpenAI's GPT-3.5 Turbo Instruct, responds to a diverse array of hypothetical personas. Each persona represents a unique combination of age, occupation, interests, and location, aiming to capture a broad spectrum of human experiences and perspectives. Our goal is to create tailored prompts for each persona and generate responses that reflect the model's capacity to provide nuanced, context-aware advice or information.
 
 By meticulously crafting and issuing 500 distinct prompts, we're gathering a rich dataset of AI-generated text. We're then applying sentiment analysis to this dataset, leveraging VADER—a tool designed to evaluate the emotional valence of written language—to quantify the sentiment embedded in each response. This sentiment score, ranging from strongly negative to strongly positive, will provide insight into the tone and emotional undercurrents of the AI's language.
